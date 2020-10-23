@@ -1,0 +1,1 @@
+console.log(Calc.sum(2,2));
