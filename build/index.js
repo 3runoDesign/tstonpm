@@ -12,4 +12,3 @@ var Calc = (function () {
   return index;
 
 }());
-xports.default = index;
